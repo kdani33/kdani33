@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-I'm currently learning Racket at Northeastern University. 
+I'm currently learning Java at Northeastern University. 
